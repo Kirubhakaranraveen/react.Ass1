@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.box1{
+border: 1px solid red;
+height: 250px;text-align: center;
+width: 300px;background-color: brown;
+border-radius: 25px;
+position: absolute;left: 200px;
+position: absolute;top: 300px;
+}
+.box2{
+  border: 1px solid red;
+height: 250px;text-align: center;
+width: 300px;background-color: brown;
+border-radius: 25px;
+position: absolute;left: 1000px;
+position: absolute;top: 300px;
+}
+body{
+  background-color: aqua;
+}
+.btn1{
+  position: absolute;left: 400px;
+  top: 150px;background-color: blueviolet;
+  border-radius: 25px;
+}
+.btn2{
+  position: absolute;top: 150px;
+  right: 500px;border-radius: 25px;
+  background-color: blueviolet;
+}
